@@ -73,6 +73,3 @@ This project applies **Machine Learning (ML)** to predict **sales revenue** for 
 - 📈 Model deployment as API services  
 
 ---
-
-## 👨‍💻 Authors
-- Nguyễn Ích Trường  
